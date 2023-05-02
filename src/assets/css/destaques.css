@@ -1,0 +1,23 @@
+.filme-destaque{
+    display: flex !important;
+    column-gap: 26px;
+    height: calc(100vh - 52px);
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.main-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 60%;
+
+    color: #000000;
+}
+
+.filme-avaliacao-link{
+    text-decoration: none;
+}

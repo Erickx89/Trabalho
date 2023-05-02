@@ -1,0 +1,10 @@
+.subscription-container {
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh - 52px);
+    gap: 26px;
+    
+    justify-content: center;
+    align-items: center;
+}
+
